@@ -27,7 +27,7 @@
 }
 
 html,
-button {
+buttom {
   font: 500 1rem/1.5 var(--ff-base);
 }
 
@@ -46,5 +46,6 @@ h2 {
 }
 
 a {
+  color: inherit;
   text-decoration: none;
 }
